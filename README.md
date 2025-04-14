@@ -18,9 +18,7 @@ A tiny, customizable React component for location autocomplete using public geod
 ## 📦 Installation
 
 ```bash
-npm install tiny-location-input
-# or
-yarn add tiny-location-input
+npm i location-input
 ```
 
 ---
@@ -116,4 +114,4 @@ npm run build
 
 ## 📄 License
 
-MIT © 2024 Your Name
+MIT © 2024 Alan Thomas
