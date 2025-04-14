@@ -23,13 +23,28 @@
     "tslib": "^2.8.1",
     "typescript": "^5.8.3"
   },
-  "keywords": [
-    "react",
-    "location",
-    "autocomplete",
-    "city-selector",
-    "geosearch"
-  ],
+ "keywords": [
+  "react",
+  "location",
+  "autocomplete",
+  "geosearch",
+  "city",
+  "input",
+  "selector",
+  "tiny",
+  "lightweight",
+  "typescript",
+  "coordinates",
+  "country",
+  "dropdown",
+  "search",
+  "geolocation",
+  "urban",
+  "public-data",
+  "open-data",
+  "smart-input",
+  "component"
+],
   "license": "MIT",
   "author": "Alan Thomas",
   "description": "A React component for selecting locations with autocomplete functionality."
