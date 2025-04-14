@@ -29,5 +29,8 @@
     "autocomplete",
     "city-selector",
     "geosearch"
-  ]
+  ], 
+  "license": "MIT",
+  "author": "Alan Thomas",
+  "description": "A React component for selecting locations with autocomplete functionality."
 }
