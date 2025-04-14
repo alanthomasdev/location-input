@@ -1,6 +1,6 @@
 {
   "name": "location-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
@@ -29,7 +29,7 @@
     "autocomplete",
     "city-selector",
     "geosearch"
-  ], 
+  ],
   "license": "MIT",
   "author": "Alan Thomas",
   "description": "A React component for selecting locations with autocomplete functionality."
